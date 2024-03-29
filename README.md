@@ -2,4 +2,4 @@
 
 The goal is to create a basic recipe website.
 
-I will have a mian page and some links to other websites.
+I created a main index page with links to 3 recipes.
