@@ -1,0 +1,28 @@
+    body{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(109, 163, 144);
+    }
+    
+    header{
+    color: gold;
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(232, 132, 10);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 50;
+    }
+
+    .button{    
+    color: gold;
+    font-weight: 800;
+    font-size: 40px;
+    background-color: transparent;
+    margin-right: 80%;
+    display:flex;
+    }
+
+    #home.button{
+        color: gold;
+        background: goldenrod;
+        font-size:30px;
+    }
